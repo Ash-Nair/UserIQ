@@ -54,7 +54,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
               user_name: 'useriq-unknown',
               account_id: account_id,
               account_name: 'ashwin',
-              user_email: 'useriq-unknown',
+              user_email: 'ashwin.nair@useriq.com',
               signup_date: '2017-11-29',
             })
             useriq.startTracker()
